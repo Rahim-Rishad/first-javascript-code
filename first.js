@@ -14,3 +14,6 @@ price = 200;
 
 let all = name + age + isStudent + temparature + price;
 console.log(all);
+
+let name1 = "Rubaiyat";
+let name2 = "Rahim";
