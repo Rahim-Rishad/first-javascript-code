@@ -8,3 +8,8 @@ let Apple = "Red";
 let apple = "Green"; //case sensitive, so Apple and apple are different variables.
 
 console.log(her_phone_number + " " + herPhoneNumber + " " + HerPhoneNumber + " " + herName01 + " " + $herAddress + " " + Apple + " " + apple);
+
+const orangePrice = 50;
+const mangoPrice = 100;
+const totalPrice = orangePrice + mangoPrice;
+console.log(orangePrice + " " + mangoPrice + " " + totalPrice);
